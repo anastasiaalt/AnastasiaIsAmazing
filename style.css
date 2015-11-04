@@ -1,0 +1,50 @@
+h1 {
+	text-align: center;
+	font-size: 100px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+button {
+	margin: 0 auto;
+}
+
+table {
+	padding: 5%;
+}
+
+.square {
+	width: 300px;
+	height: 300px;
+}
+
+.vertical {
+	border-left: 10px solid black;
+	border-right: 10px solid black;
+}
+
+.horizontal {
+	border-top: 10px solid black;
+	border-bottom: 10px solid black;
+}
+
+.x {
+	color: #801515;
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	background-image: url('http://www.rsc.org/learn-chemistry/wiki/images/a/a5/X.png');
+	background-size: contain;
+	background-position: center;
+}
+
+.o {
+	color: #801515;
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2d/O-Jolle_insigna.png');
+	background-size: cover;
+	background-position: center;
+}
+
